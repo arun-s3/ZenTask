@@ -28,7 +28,7 @@ The project explores practical challenges like:
 ![Hero section](./screenshots/hero1.png)
 ![Hero section (dark mode)](./screenshots/hero2-darkmode.png)
 
----
+..................................................................................................
 
 ### 👤 Guest Mode & Demo Logic
 
@@ -37,7 +37,7 @@ The project explores practical challenges like:
 ![Guest demo task](./screenshots/guest-mode-demoTask.png)
 ![Guest interception modal](./screenshots/guest-interception-modal.png)
 
----
+..................................................................................................
 
 ### 🔐 Authentication Flow
 
@@ -46,7 +46,7 @@ The project explores practical challenges like:
 ![Auth stabilizing loader](./screenshots/auth-loader.png)
 ![Auth modal (sign in / sign up)](./screenshots/auth-modal.png)
 
----
+..................................................................................................
 
 ### 📋 Core Task Management
 
@@ -56,7 +56,7 @@ The project explores practical challenges like:
 ![Create task modal](./screenshots/create-task-modal.png)
 ![Delete confirmation modal](./screenshots/delete-confirm-modal.png)
 
----
+..................................................................................................
 
 ### 🧩 Checklists & Progress
 
@@ -64,7 +64,7 @@ The project explores practical challenges like:
 
 ![Checklist with progress](./screenshots/checklist-darkMode.png)
 
----
+..................................................................................................
 
 ### ⚡ Sorting, Searching, Filtering, Limiting & Pagination
 
@@ -73,7 +73,7 @@ The project explores practical challenges like:
 ![Task filters](./screenshots/tasks-filters.png)
 ![Pagination](./screenshots/pagination.png)
 
----
+..................................................................................................
 
 ### 📊 Dashboard & Insights
 
@@ -83,7 +83,7 @@ The project explores practical challenges like:
 ![Dashboard charts](./screenshots/dashboard2.png)
 ![Dashboard loader (dark mode)](./screenshots/dashboard-loader-darkMode.png)
 
----
+..................................................................................................
 
 ### 🌀 Loading System (Intentional States)
 
