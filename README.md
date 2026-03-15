@@ -12,7 +12,7 @@ The project explores practical challenges like:
 
 ---
 
-## 🔗 Live Demo
+## 🔗 Live Web Application
 
 * **Frontend** : [https://zentask-liard.vercel.app](https://zentask-liard.vercel.app)
 * **Backend API** : Deployed on Render
@@ -248,7 +248,7 @@ This project intentionally focuses on problems that appear in real deployments:
 ### Frontend
 
 * React
-* JavaScript (ES6+)
+* Vanilla JavaScript (ES6+)
 * CSS (custom, no UI framework)
 * Recharts (data visualizations)
 * Sonner (toast notifications)
